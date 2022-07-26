@@ -1,0 +1,16 @@
+.participate__card__body {
+  background: #f8f9fd;
+  padding: 3rem 2rem;
+  border-radius: 1rem;
+}
+
+.participate__card__body > img {
+  height: 50px;
+  width: 50px;
+}
+
+.participate__card__body > h2 {
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin: 1rem 0;
+}

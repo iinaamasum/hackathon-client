@@ -1,5 +1,6 @@
 import React from 'react';
 import HeroSection from '../HeroSection/HeroSection';
+import ParticipateSection from '../ParticipateSection/ParticipateSection';
 import Statistics from '../Statistics/ Statistics';
 
 const Home = () => {
@@ -7,6 +8,7 @@ const Home = () => {
     <section>
       <HeroSection />
       <Statistics />
+      <ParticipateSection />
     </section>
   );
 };
