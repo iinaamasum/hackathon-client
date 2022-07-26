@@ -1,0 +1,15 @@
+.search__section {
+  background-color: #002a3b;
+}
+
+.search__box {
+  border-radius: 0.7rem;
+  width: 100%;
+}
+
+@media screen and (min-width: 768px) {
+  .search__box {
+    width: 70%;
+    margin: 0 auto;
+  }
+}
