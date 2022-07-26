@@ -8,7 +8,7 @@ import './NavBar.css';
 const NavBar = () => {
   return (
     <section>
-      <Navbar className="nav__bar" expand="lg">
+      <Navbar className="fixed-top nav__bar bg-light" expand="lg">
         <Container>
           <Navbar.Brand href="#home">
             <img src={logo} alt="" />
