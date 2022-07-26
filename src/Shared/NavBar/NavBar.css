@@ -1,0 +1,14 @@
+.nav_bar {
+  background-color: #fff;
+  height: 64px;
+  padding: 0px;
+  position: fixed;
+  top: 0px;
+  width: 100%;
+  z-index: 1;
+}
+
+.nav__link > a {
+  color: #003145;
+  font-weight: 500;
+}
