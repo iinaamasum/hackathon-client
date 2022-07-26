@@ -1,0 +1,35 @@
+.statistics__bg {
+  background: #002a3b;
+  height: 22vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.statistics__content {
+  width: 100%;
+}
+
+.statistics__content > img {
+  height: 55px;
+  width: 55px;
+}
+
+.statistics__text {
+  color: #fff;
+  margin-left: 1rem;
+}
+
+.statistics__text > h3 {
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin: 0;
+}
+
+.statistics__text {
+  color: #ececec;
+}
+
+.vertical__line {
+  border-right: 1px solid #ececec;
+}

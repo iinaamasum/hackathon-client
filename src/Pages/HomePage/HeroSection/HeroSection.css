@@ -10,6 +10,7 @@
 .hero__text {
   width: 50%;
 }
+
 .hero__text > h1 {
   font-style: normal;
   font-weight: 600;
@@ -28,10 +29,12 @@
   margin: 2rem 0;
   width: 80%;
 }
+
 .hero__img {
   text-align: center;
   width: 40%;
 }
+
 .hero__img > a {
   width: 242px;
   height: 294px;
