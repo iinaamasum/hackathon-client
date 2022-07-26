@@ -1,0 +1,45 @@
+.hero__section {
+  background-color: #003145;
+}
+
+.hero__heading {
+  min-height: 70vh;
+  color: #fff;
+}
+
+.hero__text {
+  width: 50%;
+}
+.hero__text > h1 {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 2.5rem;
+  line-height: 56px;
+  border-left: 9px solid #ffce5c;
+  padding-left: 2rem;
+}
+
+.hero__text > p {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 28px;
+  color: #ececec;
+  margin: 2rem 0;
+  width: 80%;
+}
+.hero__img {
+  text-align: center;
+  width: 40%;
+}
+.hero__img > a {
+  width: 242px;
+  height: 294px;
+  margin: auto;
+}
+
+.hero__btn {
+  background: #fff;
+  color: #003145;
+  font-weight: 600;
+}
