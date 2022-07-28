@@ -5,8 +5,8 @@ import './HeroSection.css';
 
 const HeroSection = () => {
   return (
-    <section className="hero__section">
-      <div className="d-flex justify-content-between align-items-center container mx-auto hero__heading">
+    <section className="hero__section pt-5 pt-md-0">
+      <div className="d-md-flex mt-5 mt-md-0 justify-content-between align-items-center container mx-auto hero__heading">
         {/* header text  */}
         <div className="hero__text">
           <h1>

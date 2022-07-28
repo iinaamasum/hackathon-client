@@ -46,3 +46,15 @@
   color: #003145;
   font-weight: 600;
 }
+
+@media screen and (max-width: 992px) {
+  .hero__text {
+    width: 100%;
+  }
+  .hero__img {
+    width: 100%;
+  }
+  .hero__text > p {
+    width: 100%;
+  }
+}
