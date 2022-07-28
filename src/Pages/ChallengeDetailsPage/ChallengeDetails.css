@@ -1,0 +1,45 @@
+.challenge__details {
+  padding-top: 3rem;
+}
+.challenge__details-header {
+  height: 50vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #003145;
+}
+
+.challenge__details-header h1 {
+  font-size: 2.5rem;
+  font-weight: bold;
+  color: #fff;
+}
+
+.challenge__details-time {
+  background: #ffce5c;
+  border-radius: 5px;
+  padding: 0.5rem;
+}
+
+.challenge__details-header > .container > p {
+  padding: 0.3rem 0;
+  color: #f8f9fdd8;
+}
+
+.challenge__details-action {
+  background: #ffffff;
+  border: 0.1px solid #dde6ed;
+  box-shadow: 0px 6px 12px #dde6ed;
+}
+
+.action__content {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+}
+
+.action__content p {
+  margin-bottom: 0;
+  padding: 0 0.5rem;
+  border-bottom: 0.2rem solid green;
+}

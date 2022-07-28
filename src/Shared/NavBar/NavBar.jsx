@@ -18,7 +18,7 @@ const NavBar = () => {
             <Nav className="ms-auto nav__link">
               <Nav.Link href="#home">Home</Nav.Link>
               <Nav.Link href="#challenges">Challenges</Nav.Link>
-              <Nav.Link href="#add-challenge">Add Challenges</Nav.Link>
+              <Nav.Link href="/create-challenge">Add Challenges</Nav.Link>
             </Nav>
           </Navbar.Collapse>
         </Container>
